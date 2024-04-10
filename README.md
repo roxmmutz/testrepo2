@@ -1,2 +1,2 @@
 # testrepo2
-test
+test for the course
